@@ -1,6 +1,6 @@
 <pre>
 <?php
-print "hello my dear frandsssss";
+print "hello";
 <br/>
 print `ifconfig`
 ?>
