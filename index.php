@@ -1,6 +1,6 @@
 <pre>
 <?php
-print "hello";
+print "This is my task.";
 <br/>
 print `ifconfig`
 ?>
